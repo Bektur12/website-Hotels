@@ -1,0 +1,14 @@
+{
+  "homepage": "https://github.com/Bektur12/website-Hotels",
+  "name": "landing---lagoona--main",
+  "version": "1.0.0",
+  "description": "Try it here: https://alex-milyaev.github.io/Landing---Lagoona-/",
+  "main": "index.js",
+  "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
